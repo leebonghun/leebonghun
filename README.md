@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leebonghun&show_icons=true&theme=radical)
-<a href="https://www.instagram.com/polehun0613/" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=뱃지모양&logo=instagram.svg&logoColor=#E4405F"/></a>
+![Instagram]<a href="https://www.instagram.com/polehun0613/" target="_blank"><img src=(https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)/></a>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
