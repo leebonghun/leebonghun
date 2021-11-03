@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.instagram.com/polehun0613/" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=뱃지모양&logo=로고&logoColor=#E4405F"/></a>
+<a href="https://www.instagram.com/polehun0613/" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=뱃지모양&logo=instagram.svg&logoColor=#E4405F"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leebonghun&show_icons=true&theme=radical)
