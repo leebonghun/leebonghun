@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leebonghun&show_icons=true&theme=radical)
+github-readme-stats.vercel.app/api?username={leebonghun}&show_icons=true&theme=dark
+
 
 
 <a href="https://instagram.com/polehun0613"> <img src="http://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/polehun0613/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
